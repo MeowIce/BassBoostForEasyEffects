@@ -16,3 +16,6 @@ Preset for PulseEffects.
 - If you have a better preset, feel free to make a pull request.
 - You can change the convolver files to match your experience.
 - Impulse files are in [irs](irs/) folder.
+
+## Credit:
+Preset by MeowIce. Impulse files by JackHack96.
