@@ -1,5 +1,5 @@
-# Bass Boost Preset for PulseEffects 
-Preset for PulseEffects.
+# Bass Boost Preset for PulseEffects/EasyEffects
+Preset for PulseEffects/EasyEffects.
 
 
 ## Features:
@@ -7,10 +7,10 @@ Preset for PulseEffects.
 - Bass Boosted.
 
 ## Installation:
-1. Install PulseEffects.
+1. Install PulseEffects/EasyEffects.
 2. Clone the repository and unzip it.
-3. Copy the `.json` file into `~/.config/PulseEffects/output`.
-4. Select **BassBoost++** from preset menu.
+3. Copy the `BassBoost++.json` file into `~/.config/PulseEffects/output`. For EasyEffect/PW: Copy `BassBoost++PW.json` to `~/.config/easyeffects/output`
+4. Select **BassBoost++** or **BassBoost++PW** from preset menu.
 
 ## Notes:
 - If you have a better preset, feel free to make a pull request.
